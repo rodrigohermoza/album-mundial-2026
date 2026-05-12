@@ -2,7 +2,7 @@
 
 ¿Cuánta plata necesitas para completar el álbum del Mundial 2026?  
 Este proyecto responde esa pregunta con **simulación Monte Carlo** y una gráfica interactiva.
-
+Incluye el resultado de una simulación de 5000 repeticiones con los datos dados previamente
 ---
 
 ## 📊 ¿Qué hace el programa?
